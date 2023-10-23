@@ -1,4 +1,4 @@
 # Graph-algorithms
 
-Implementation of DFS, BFS and Khan algorithms.
+Implementation of Dijkstra, DFS, BFS and Khan algorithms.
 Performance tests and summary.
